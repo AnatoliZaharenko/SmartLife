@@ -1,0 +1,14 @@
+USE master;
+GO
+
+IF EXISTS(SELECT * FROM sys.databases WHERE name='SmartLife')
+BEGIN
+	DROP DATABASE SmartLife;
+END
+
+CREATE DATABASE SmartLife
+
+USE SmartLife
+GO
+
+	 
