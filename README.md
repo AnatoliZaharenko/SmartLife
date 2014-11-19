@@ -1,4 +1,4 @@
 SmartLife
 =========
 
-SmartLife - Programs to improve my life
+SmartLife - programs to improve my life
